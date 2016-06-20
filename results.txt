@@ -1,0 +1,38 @@
+Bubble Sort
+
+OneWord: 0 comparisons, 0 ms
+FiveWord: 10 comparisons, 0 ms
+TenWord: 45 comparisons, 0 ms
+TwentyWord: 190 comparisons, 0 ms
+FiftyWord: 1225 comparisons, 0 ms
+HundredWord: 4950 comparisons, 3 ms
+FiveHundredWord: 124750 comparisons, 62 ms
+ThousandWord: 499500 comparisons, 8 ms
+TenThousandWord: 49995000 comparisons, 339 ms
+A: 10 comparisons, 0 ms
+B: 0 comparisons, 0 ms
+C: 6 comparisons, 0 ms
+D: 28 comparisons, 0 ms
+E: 55 comparisons, 0 ms
+
+BigData: 49995000 comparisons, 760 ms
+
+
+Merge Sort
+
+OneWord: 0 comparisons, 0 ms
+FiveWord: 8 comparisons, 0 ms
+TenWord: 21 comparisons, 0 ms
+TwentyWord: 60 comparisons, 0 ms
+FiftyWord: 224 comparisons, 0 ms
+HundredWord: 534 comparisons, 0 ms
+FiveHundredWord: 3837 comparisons, 1 ms
+ThousandWord: 8713 comparisons, 3 ms
+TenThousandWord: 120282 comparisons, 3 ms
+A: 7 comparisons, 0 ms
+B: 0 comparisons, 0 ms
+C: 5 comparisons, 0 ms
+D: 13 comparisons, 0 ms
+E: 17 comparisons, 0 ms
+
+BigData: 120400 comparisons, 6 ms
